@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "SIFAT_BOT",
   "version": "2.0.1",
   "language": "en",
   "DeveloperMode": false,
@@ -10,18 +10,18 @@
   "EMAIL": "your_email",
   "PASSWORD": "your_password",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
-  "PREFIX": "/",
+  "BOTNAME": "─꯭─⃝‌‌𝐒IFAT 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "PREFIX": ",",
 
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "61586663640809",
-    "100044713412032"
+    "61593910539310",
+    "61590756236993",
+    ""
   ],
   "NDH": [
-    "100044713412032"
+    ""
   ],
   "adminOnly": false,
   "ndhOnly": false,
