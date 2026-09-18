@@ -5,7 +5,7 @@ module.exports.config = {
   name: "owner",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "SIFAT bbz",
   description: "Show Owner Info with styled box & random photo",
   commandCategory: "Information",
   usages: "owner",
