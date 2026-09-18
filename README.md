@@ -15,7 +15,7 @@
 <!-- COLORED + BOLD TITLE (NO ANIMATION) -->
 <p align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: bold;">
 
-  <!-- SHAHADAT CHAT BOT -->
+  <!-- SIFAT CHAT BOT -->
   <span style="font-size: 32px; font-weight: 700; color:#00A8FF;">
     SHAHADAT CHAT BOT
   </span>
@@ -158,19 +158,19 @@ ___
 
 ## 👨‍💻 ABOUT THE DEVELOPER
 
-**Name:** `SHAHADAT ISLAM`  
-**Nice Name:** `SA HU`  
+**Name:** `SIFAT Bby`  
+**Nice Name:** `SIFAT BOT`  
 **Profession:** `STUDENT & CHATBOT DEVELOPER`  
-**Location:** `KHAGRACHARI, BANGLADESH`
+**Location:** `sokhipur, BANGLADESH`
 
 #### 📞 CONTACT
-- **WhatsApp:** [WhatsApp Me](https://wa.me/+8801882333052)
-- **Facebook:** [Profile Me](https://facebook.com/100044713412032)
-- **Messenger:** [Message Me](https://m.me/100044713412032)
+- **WhatsApp:** [WhatsApp Me](https://wa.me/+8801836991891)
+- **Facebook:** [Profile Me](https://www.facebook.com/profile.php?id=61590756236993)
+- **Messenger:** [Message Me](https://m.me/61590756236993)
 
 #### 🚀 APPROACH
 - 💻 Copy-paste techniques with deep customizations  
-- 🤝 Collaborative development with friends  
+- 🤝 Collaborativedevelopmentt with friends  
 - 🤖 AI-powered workflow using ChatGPT & modern tools
 ---
 
