@@ -2,10 +2,10 @@ module.exports.config = {
  name: "mention",
  version: "1.0.0",
  hasPermssion: 2,
- credits: "SHAHADAT SAHU",
+ credits: "SIFAT bbz",
  description: "একবার করে বারবার কাউকে মেনশন করার কমান্ড",
  commandCategory: "group",
- usages: "/mention @mention [count]",
+ usages: "/mention @mention [SIFAT]",
  cooldowns: 5
 };
 
@@ -13,7 +13,7 @@ module.exports.run = async ({ api, event, args }) => {
  const { mentions, threadID } = event;
 
  if (Object.keys(mentions).length === 0) {
- return api.sendMessage("Boss আপনি কাউকে মেনশন করেননি!\n\nExample: /mention @SA HU 10", threadID);
+ return api.sendMessage("Boss আপনি কাউকে মেনশন করেননি!\n\nExample: /mention @SIF AT10", threadID);
  }
 
  const mentionID = Object.keys(mentions)[0];
